@@ -1,0 +1,86 @@
+{
+  "perfil": "Programador de sistemas con 10 años de experiencia mejorando el funcionamiento de las organizaciones con soluciones de sistemas de información. Reconocido por recomendar nuevas tecnologías para mejorar los sistemas existentes e introducir nuevos programas.",
+  "academico": [
+    {
+      "anioCursado": "2000-2007",
+      "lugar": "Esc. Obispo Padilla",
+      "nivel": "Colegio Primario"
+    },
+    {
+      "anioCursado": "2008-2012",
+      "lugar": "Bachillerato N°6",
+      "nivel": "Colegio Secundario"
+    },
+    {
+      "anioCursado": "2013-2017",
+      "lugar": "Facultad de Ingenieria",
+      "nivel": "Universidad Nacional de Jujuy"
+    },
+    {
+      "anioCursado": "2018",
+      "lugar": "Posgrado de Ciberseguridad",
+      "nivel": "Catolica de Salta"
+    }
+  ],
+  "lenguajes": [
+    {
+      "lenguaje": "Ingles",
+      "porcentaje": 100
+    },
+    {
+      "lenguaje": "Aleman",
+      "porcentaje": 50
+    }
+  ],
+  "ocupacion": ["Front-End Developer"],
+  "contacto": {
+    "paginaWeb": {
+      "urlcorta": "www.codequetepillo.com",
+      "urllarga": "https://www.codequetepillo.com/post/hacer-una-web-gratis-y-rapido-con-notion-en-tu-propio-dominio-2020"
+    },
+    "likedin": {
+      "urlcorta": "www.linkedin.com",
+      "urllarga": "https://www.linkedin.com/in/maría-celeste-carrera-0604663b/"
+    }
+  },
+  "experiencia": [
+    {
+      "lugar": "Segula Technologies - Programador de sistemas",
+      "fecha": "20/2018 - 11/2020",
+      "actividad": [
+        "Esperiencia revisando códigos, hojas de ruta de proyectos y requisitos cambiantes durante el transcurso de cada proyecto.",
+        "Supervisó la instalación de programas de software y sistemas de hardware para cumplir los requisitos de cada equipo.",
+        "Capacidad para realizar mejoras en los sistemas informáticos de la empresa."
+      ]
+    },
+    {
+      "lugar": "Netboos Comunicaciones - Programador de sistemas",
+      "fecha": "12/2012 - 01/2018",
+      "actividad": [
+        "Logró un 87% de éxito en la automatización del software, analizando las operaciones de reclamaciones, los datos y las incidencias.",
+        "Creó diseños conceptuales a partir de objetivos de negocios para desarrollar aplicaciones de acuerdo con la estrategia de la empresa.",
+        "Proporcionó una formación detallada a los usuarios para proteger los datos y minimizar errores."
+      ]
+    },
+    {
+      "lugar": "Silver Storm Solutions - Programador web",
+      "fecha": "10/2010 - 09/2012",
+      "actividad": [
+        "Apoyo técnico al ciclo completo del proyecto, desde el briefing inicial, pasando por wireframes, diseño web, maqutación, desarrollo, programación y la publicación final.",
+        "Particiapción en proyectos de software libre."
+      ]
+    }
+  ],
+  "software": [
+    { "softwar": "SQL", "porcentaje": 90 },
+    { "softwar": "Python", "porcentaje": 50 },
+    { "softwar": "Java", "porcentaje": 80 },
+    { "softwar": "HTML", "porcentaje": 100 }
+  ],
+  "aptitudes": [
+    { "nombre": "Amable", "url": "../resources/image/amabilidad.png" },
+    { "nombre": "Comunicativo", "url": "../resources/image/conversacion.png" },
+    { "nombre": "Sociable", "url": "../resources/image/espectadores.png" },
+    { "nombre": "Investigador", "url": "../resources/image/investigar.png" }
+  ]
+}
